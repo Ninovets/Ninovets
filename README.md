@@ -53,7 +53,7 @@ Beyond programming, I'm learning Latin and Ancient Greek (wow), also History.
 
 - <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="90" height="100" valign="middle"/> 
-  <span style="font-size: 22px; vertical-align: middle;">&nbsp;—&nbsp; Because that's a language I think has many purposes (yay???). Also imagine making a game engine in it for example.</span>
+  <span style="font-size: 22px; vertical-align: middle;">&nbsp;—&nbsp; Because that's a language I think has many purposes (yay???). Also imagine making a game engine in it</span>
 </p>
 
 - <p align="left">
