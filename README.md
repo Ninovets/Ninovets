@@ -1,4 +1,4 @@
-<img src="https://wsrv.nl/?url=raw.githubusercontent.com/Ninovets/Ninovets/main/pfp.jpeg&w=400&h=400&fit=cover&mask=circle" align="right" alt="Profile Picture" />
+<img src="https://wsrv.nl/?url=raw.githubusercontent.com/Ninovets/Ninovets/main/BannerVertical.jpeg" align="right" width="300" height="670" alt="Banner" />
 
 ### Hey!
 
