@@ -8,6 +8,34 @@ Beyond programming, I'm learning Latin and Ancient Greek (wow), also History.
 
 ----------
 
+### Cognitive Profile (so you know me better :D)
+
+<p align="left">
+  <span style="font-size: 24px; vertical-align: middle;">
+    <b><h4>INTP - ENTP - INFP</b> <i></i> ••||•• From <a href="https://www.keys2cognition.com/explore.htm" target="_blank" style="color: #58a6ff;">Keys2Cognition</a></h4> 
+  </span>
+</p>
+
+#### Process Profiles:
+
+- <p align="left"><span style="font-size: 18px; vertical-align: middle;">&nbsp;&nbsp;<b>Ti</b> (Introverted Thinking) &nbsp;&nbsp; <img src="https://geps.dev/progress/46.1?label=46.1&min=0&max=50&barColor=58a6ff" valign="middle" /> &nbsp;<b>(Excellent)</b></span></p>
+- <p align="left"><span style="font-size: 18px; vertical-align: middle;">&nbsp;&nbsp;<b>Fi</b> (Introverted Feeling) &nbsp;&nbsp;&nbsp; <img src="https://geps.dev/progress/39.7?label=39.7&min=0&max=50&barColor=58a6ff" valign="middle" /> &nbsp;<b>(Excellent)</b></span></p>
+- <p align="left"><span style="font-size: 18px; vertical-align: middle;">&nbsp;&nbsp;<b>Ne</b> (Extraverted Intuiting)  <img src="https://geps.dev/progress/35.0?label=35.0&min=0&max=50&barColor=2ecc71" valign="middle" /> &nbsp;<b>(Good)</b></span></p>
+
+<img src="" align="right" alt="Profile Picture" width="250" height="270"/>
+
+- <p align="left"><span style="font-size: 18px; vertical-align: middle;">&nbsp;&nbsp;<b>Te</b> (Extraverted Thinking) &nbsp; <img src="https://geps.dev/progress/33.8?label=33.8&min=0&max=50&barColor=2ecc71" valign="middle" /> &nbsp;<b>(Good)</b></span></p>
+- <p align="left"><span style="font-size: 18px; vertical-align: middle;">&nbsp;&nbsp;<b>Ni</b> (Introverted Intuiting) &nbsp; <img src="https://geps.dev/progress/23.6?label=23.6&min=0&max=50&barColor=e74c3c" valign="middle" /> &nbsp;<b>(Limited)</b></span></p>
+- <p align="left"><span style="font-size: 18px; vertical-align: middle;">&nbsp;&nbsp;<b>Si</b> (Introverted Sensing) &nbsp;&nbsp; <img src="https://geps.dev/progress/22.0?label=22.0&min=0&max=50&barColor=e74c3c" valign="middle" /> &nbsp;<b>(Limited)</b></span></p>
+- <p align="left"><span style="font-size: 18px; vertical-align: middle;">&nbsp;&nbsp;<b>Fe</b> (Extraverted Feeling) &nbsp;&nbsp; <img src="https://geps.dev/progress/19.8?label=19.8&min=0&max=50&barColor=e74c3c" valign="middle" /> &nbsp;<b>(Limited)</b></span></p>
+- <p align="left"><span style="font-size: 18px; vertical-align: middle;">&nbsp;&nbsp;<b>Se</b> (Extraverted Sensing) &nbsp;&nbsp; <img src="https://geps.dev/progress/16.8?label=16.8&min=0&max=50&barColor=e74c3c" valign="middle" /> &nbsp;<b>(Limited)</b></span></p>
+
+#### Top Function Pair: <ins>NT</ins> (134.5)</span>
+
+<br clear="right" />
+
+----------
+
 Core stack:
 
 <p align="left">
