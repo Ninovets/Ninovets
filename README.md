@@ -44,7 +44,7 @@ Beyond programming, I'm learning Latin and Ancient Greek (wow), also History.
 - <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="90" height="100" valign="middle"/> 
   <span style="font-size: 24px; vertical-align: middle;">—</span> 
-  <img src="https://img.shields.io/badge/Basics-15%25-e74c3c?style=for-the-badge&logo=c&logoColor=white" valign="middle"/>
+  <img src="https://img.shields.io/badge/Basics-17%25-e74c3c?style=for-the-badge&logo=c&logoColor=white" valign="middle"/>
 </p>
 
 ---
