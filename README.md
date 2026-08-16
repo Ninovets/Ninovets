@@ -57,7 +57,7 @@ Beyond programming, I'm learning Latin and Ancient Greek (wow), also History.
 </p>
 
 - <p align="left">
-  <img src="https://www.w3schools.com/js/img_javascript_480.jpg" alt="JavaScript" width="100" height="100" valign="middle"/> 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtW41-f13wcfMVqPEl9X70IAV9fvf7oYE6svE8e4xIEA&s=10" alt="JavaScript" width="100" height="100" valign="middle"/> 
   <span style="font-size: 22px; vertical-align: middle;">&nbsp;—&nbsp; Because it's used everywhere and I'm forced to learn it at some point</span>
 </p>
 
