@@ -4,7 +4,7 @@
 
 I'm a **hobby programmer** who has learned **absolutely nothing** (will learn more in the future)
 
-Beyond programming, I'm currently studying at the <i>National gymnasium for ancient languages and culture "St. Constantinus Cyrillus-Pholosophus"</i> in Bulgaria <img src="https://images.emojiterra.com/twitter/v14.0/1024px/1f1e7-1f1ec.png" alt="BG-Emoji" width="20" height="20" valign="middle"/>.
+Beyond programming, I'm currently studying as a <b>sophomore</b> (3rd year) <b>student</b> at the <i>National gymnasium for ancient languages and culture "St. Constantinus Cyrillus-Pholosophus"</i> in Bulgaria <img src="https://images.emojiterra.com/twitter/v14.0/1024px/1f1e7-1f1ec.png" alt="BG-Emoji" width="20" height="20" valign="middle"/>.
 
 ----------
 
