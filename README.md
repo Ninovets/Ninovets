@@ -1,4 +1,4 @@
-<img src="https://wsrv.nl/?url=raw.githubusercontent.com/Ninovets/Ninovets/main/BannerVertical.jpeg" align="right" width="250" alt="Banner" />
+<img src="https://wsrv.nl/?url=raw.githubusercontent.com/Ninovets/Ninovets/main/BannerVertical.jpeg" align="right" width="275" alt="Banner" />
 
 ### Hey!
 
