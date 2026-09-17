@@ -33,7 +33,7 @@ Beyond programming, I'm currently studying as a <b>sophomore</b> (3rd year) <b>s
     </tr>
     <tr>
       <td>
-        <b>Хартията като катализа-<br>тор на Ислямския <br>златен век</b><br>
+        <b>Хартията като катали-<br>затор на Ислямския <br>златен век</b><br>
         <sub>(<i>Paper as a catalyst for<br>the Islamic Golden Age</i>)</sub>
       </td>
       <td>
