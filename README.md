@@ -12,19 +12,20 @@ Beyond programming, I'm currently studying as a <b>sophomore</b> (3rd year) <b>s
 
 ### Research and Academic Pathway:
 
-<table width="20%">
+<div align="center">
+  <table>
   <thead>
     <tr>
-      <th width="5%">Topic</th>
-      <th width="5%">Core Focus</th>
-      <th width="5%">Date</th>
+      <th>Topic</th>
+      <th>Core Focus</th>
+      <th>Date</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        <b>Градоустройството на <br>Вавилон по времето<br>на Навуходоносор II</b><br>
-        <sub>(<i>Babylon urban planning<br>under Nebuchadnezzar II</i>)</sub>
+        <b>Градоустройството на Вавилон по времето на Навуходоносор II</b><br>
+        <sub>(<i>Babylon urban planningunder Nebuchadnezzar II</i>)</sub>
       </td>
       <td>
         • Architectural layout<br>
@@ -35,8 +36,8 @@ Beyond programming, I'm currently studying as a <b>sophomore</b> (3rd year) <b>s
     </tr>
     <tr>
       <td>
-        <b>Хартията като катали-<br>затор на Ислямския <br>златен век</b><br>
-        <sub>(<i>Paper as a catalyst for<br>the Islamic Golden Age</i>)</sub>
+        <b>Хартията като катализатор на Ислямския златен век</b><br>
+        <sub>(<i>Paper as a catalyst for the Islamic Golden Age</i>)</sub>
       </td>
       <td>
         • Technological transfer<br>
@@ -47,8 +48,8 @@ Beyond programming, I'm currently studying as a <b>sophomore</b> (3rd year) <b>s
     </tr>
     <tr>
       <td>
-        <b>Стаж в Националния<br>исторически музей<br>(НИМ)<br></b>
-        <sub>(<i>Internship at the National<br>Museum of History</i>)</sub>
+        <b>Стаж в Националния исторически музей (НИМ)<br></b>
+        <sub>(<i>Internship at the National Museum of History</i>)</sub>
       </td>
       <td>
         • Archaeological artifact study<br>
@@ -56,113 +57,116 @@ Beyond programming, I'm currently studying as a <b>sophomore</b> (3rd year) <b>s
         • Institutional curation<br>
         • Museum operations walk-through
       </td>
-      <td><em>Jul 20-24, 2026<br><sub>(Freshman Year)</sub></em></td>
+      <td><em>Jul 20 - 24, 2026<br><sub>(Freshman Year)</sub></em></td>
     </tr>
   </tbody>
 </table>
+</div>
 
 ----------
 
 ### Extracurriculars, Leadership & Activity
 
-<table>
-  <thead>
-    <tr>
-      <th width="30%">Activity / Project</th>
-      <th width="20%">Information / Position</th>
-      <th width="30%">Core Focus</th>
-      <th width="18%">Date</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <b>Клуб по дебати</b><br>
-        <sub>(<i>Debate club</i>)</sub>
-      </td>
-      <td>
-        • Member<br>
-        • Active Participant
-      </td>
-      <td>
-        • Rhetorical argument<br>
-        • Structured debate<br>
-        • Public speaking
-      </td>
-      <td><em>Sep 2024-Sep 2025<br><sub>(Sub-Freshman Year)</sub></em></td>
-    </tr>
-    <tr>
-      <td>
-        <b>Участие в кампания на Доброволческия клуб</b><br>
-        <sub>(<i>Participation in Volunteer Club initiative</i>)</sub>
-      </td>
-      <td>
-        Participant in a <i>Volunteer Club</i> school campaign to collect hygiene products for the children from CNST “Detelina”
-      </td>
-      <td>
-        • Community outreach<br>
-        • Charitable donation drive<br>
-        • Social support & solidarity
-      </td>
-      <td><em>Mar 2026<br><sub>(Freshman Year)</sub></em></td>
-    </tr>
-    <tr>
-      <td>
-        <b>Сатиричен вестник "Tempora Idiota" (Неофициален, персонален вестник)</b><br>
-        <sub>(<i>Satirical newspaper "Tempora Idiota" (Unofficial, personal newspaper)</i>)</sub>
-      </td>
-      <td>
-        • Creator<br> 
-        • Chief Editor<br> 
-        • Chief Designer<br> 
-        • Advertiser / Promoter<br>
-        • Distributor
-      </td>
-      <td>
-        • Satirical journalism & writing<br>
-        • Layout & graphic design<br>
-        • Editorial management<br>
-        • Publication & distribution
-      </td>
-      <td><em>Apr 2026 - ...<br><sub>(Freshman Year - ...)</sub></em></td>
-    </tr>
-    <tr>
-      <td>
-        <b>"Имитационни" ученически избори и публикации</b><br>
-        <sub>(<i>Imaginary/Simulatory school elections and publications</i>)</sub>
-      </td>
-      <td>
-        • Organisor<br> 
-        • Imaginary chairman of the "<i>Зелен глас</i>" (<i>Green vote</i>) party<br> 
-        • Chairman of imaginary <i>Classical Electoral Commission</i> (<i>CEC</i>)<br> 
-        • Participant / Voter
-      </td>
-      <td>
-        • Simulation organization<br>
-        • Data charting & reporting<br>
-        • Student journalism<br>
-        • Social media engagement
-      </td>
-      <td><em>Apr-May 2026<br><sub>(Freshman Year)</sub></em></td>
-    </tr>
-    <tr>
-      <td>
-        <b>Доброволчески клуб</b><br>
-        <sub>(<i>Volunteer club</i>)</sub>
-      </td>
-      <td>
-        • Member<br>
-        • Active participant
-      </td>
-      <td>
-        • Community service & outreach<br>
-        • Charitable initiative support<br>
-        • Collaborative volunteering
-      </td>
-      <td><em>Sep 16, 2026<br><sub>(Sophomore Year)</sub></em></td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Activity / Project</th>
+        <th>Information / Position</th>
+        <th>Core Focus</th>
+        <th>Date</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <b>Клуб по дебати</b><br>
+          <sub>(<i>Debate club</i>)</sub>
+        </td>
+        <td>
+          • Member<br>
+          • Active Participant
+        </td>
+        <td>
+          • Rhetorical argument<br>
+          • Structured debate<br>
+          • Public speaking
+        </td>
+        <td><em>Sep 2024 - Sep 2025<br><sub>(Sub-Freshman Year)</sub></em></td>
+      </tr>
+      <tr>
+        <td>
+          <b>Участие в кампания на Доброволческия клуб</b><br>
+          <sub>(<i>Participation in Volunteer Club initiative</i>)</sub>
+        </td>
+        <td>
+          Participant in a <i>Volunteer Club</i> school campaign to collect hygiene products for the children from CNST “Detelina”
+        </td>
+        <td>
+          • Community outreach<br>
+          • Charitable donation drive<br>
+          • Social support & solidarity
+        </td>
+        <td><em>Mar 2026<br><sub>(Freshman Year)</sub></em></td>
+      </tr>
+      <tr>
+        <td>
+          <b>Сатиричен вестник "Tempora Idiota" (Неофициален, персонален вестник)</b><br>
+          <sub>(<i>Satirical newspaper "Tempora Idiota" (Unofficial, personal newspaper)</i>)</sub>
+        </td>
+        <td>
+          • Creator<br> 
+          • Chief Editor<br> 
+          • Chief Designer<br> 
+          • Advertiser / Promoter<br>
+          • Distributor
+        </td>
+        <td>
+          • Satirical journalism & writing<br>
+          • Layout & graphic design<br>
+          • Editorial management<br>
+          • Publication & distribution
+        </td>
+        <td><em>Apr 2026 - ...<br><sub>(Freshman Year - ...)</sub></em></td>
+      </tr>
+      <tr>
+        <td>
+          <b>"Имитационни" ученически избори и публикации</b><br>
+          <sub>(<i>Imaginary/Simulatory school elections and publications</i>)</sub>
+        </td>
+        <td>
+          • Organisor<br> 
+          • Imaginary chairman of the "<i>Зелен глас</i>" (<i>Green vote</i>) party<br> 
+          • Chairman of imaginary <i>Classical Electoral Commission</i> (<i>CEC</i>)<br> 
+          • Participant / Voter
+        </td>
+        <td>
+          • Simulation organization<br>
+          • Data charting & reporting<br>
+          • Student journalism<br>
+          • Social media engagement
+        </td>
+        <td><em>Apr 2026 - May 2026<br><sub>(Freshman Year)</sub></em></td>
+      </tr>
+      <tr>
+        <td>
+          <b>Доброволчески клуб</b><br>
+          <sub>(<i>Volunteer club</i>)</sub>
+        </td>
+        <td>
+          • Member<br>
+          • Active participant
+        </td>
+        <td>
+          • Community service & outreach<br>
+          • Charitable initiative support<br>
+          • Collaborative volunteering
+        </td>
+        <td><em>Sep 16, 2026<br><sub>(Sophomore Year)</sub></em></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ----------
 
