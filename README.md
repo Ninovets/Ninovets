@@ -10,6 +10,9 @@ Beyond programming, I'm learning Latin and Ancient Greek (wow), also History.
 
 ### Cognitive Profile (so you know me better :D)
 
+<details>
+<summary>Cognitive profile</summary>
+​
 <p align="left">
   <span style="font-size: 24px; vertical-align: middle;">
     <b><ins>INTP - ENTP - INFP</ins></b> <i></i> ••||•• From <a href="https://www.keys2cognition.com/explore.htm" target="_blank" style="color: #58a6ff;">Keys2Cognition</a>
@@ -31,6 +34,8 @@ Beyond programming, I'm learning Latin and Ancient Greek (wow), also History.
 
 <br clear="right" />
 
+</details>
+
 ----------
 
 ### Core stack:
@@ -47,14 +52,15 @@ Beyond programming, I'm learning Latin and Ancient Greek (wow), also History.
   <img src="https://img.shields.io/badge/Basics-17%25-e74c3c?style=for-the-badge&logo=c&logoColor=white" valign="middle"/>
 </p>
 
+- <p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="90" height="100" valign="middle"/> 
+  <span style="font-size: 24px; vertical-align: middle;">—</span> 
+  <img src="https://img.shields.io/badge/Barely doing anything-3%25-e74c3c?style=for-the-badge&logo=c&logoColor=white" valign="middle"/>
+</p>
+
 ---
 
 ### Exploring:
-
-- <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="90" height="100" valign="middle"/> 
-  <span style="font-size: 22px; vertical-align: middle;">&nbsp;—&nbsp; Because that's a language I think has many purposes (yay???)</span>
-</p>
 
 - <p align="left">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtW41-f13wcfMVqPEl9X70IAV9fvf7oYE6svE8e4xIEA&s=10" alt="JavaScript" width="100" height="100" valign="middle"/> 
