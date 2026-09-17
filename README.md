@@ -13,8 +13,8 @@ Beyond programming, I'm currently studying as a <b>sophomore</b> (3rd year) <b>s
 <table width="20%">
   <thead>
     <tr>
-      <th width="10%">Topic</th>
-      <th width="6%">Core Focus</th>
+      <th width="5%">Topic</th>
+      <th width="5%">Core Focus</th>
       <th width="6%">Date</th>
     </tr>
   </thead>
