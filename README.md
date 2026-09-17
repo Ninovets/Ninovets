@@ -92,7 +92,7 @@ Beyond programming, I'm currently studying at the <i>National gymnasium for anci
 
 ### Want to contact me?
   
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHxTgFHsXZGhdcpTqSmzrgxtKTjXLtknHdwGLqMtxnkRSfPXKTTLZqkLFZbVMmNDhccTnvZ">
+<a href="mailto:ninovets.dev@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="175" height="50" />
 </a>
 <a href="https://discord.com/users/1030172775140311061">
