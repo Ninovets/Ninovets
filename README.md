@@ -13,15 +13,15 @@ Beyond programming, I'm currently studying as a <b>sophomore</b> (3rd year) <b>s
 <table width="20%">
   <thead>
     <tr>
-      <th width="30%">Topic</th>
-      <th width="30%">Core Focus</th>
-      <th width="18%">Date</th>
+      <th width="20%">Topic</th>
+      <th width="20%">Core Focus</th>
+      <th width="15%">Date</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        <b>Градоустройството на Вавилон<br>по времето на Навуходоносор II</b><br>
+        <b>Градоустройството на <br>Вавилон по времето на<br>Навуходоносор II</b><br>
         <sub>(<i>Babylon urban planning<br>under Nebuchadnezzar II</i>)</sub>
       </td>
       <td>
@@ -33,7 +33,7 @@ Beyond programming, I'm currently studying as a <b>sophomore</b> (3rd year) <b>s
     </tr>
     <tr>
       <td>
-        <b>Хартията като катализатор<br>на Ислямския златен век</b><br>
+        <b>Хартията като катализа-<br>тор на Ислямския <br>златен век</b><br>
         <sub>(<i>Paper as a catalyst for<br>the Islamic Golden Age</i>)</sub>
       </td>
       <td>
@@ -45,7 +45,7 @@ Beyond programming, I'm currently studying as a <b>sophomore</b> (3rd year) <b>s
     </tr>
     <tr>
       <td>
-        <b>Стаж в Националния<br>исторически музей (НИМ)<br></b>
+        <b>Стаж в Националния<br>исторически музей<br>(НИМ)<br></b>
         <sub>(<i>Internship at the National<br>Museum of History</i>)</sub>
       </td>
       <td>
