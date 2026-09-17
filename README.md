@@ -86,3 +86,15 @@ Beyond programming, I'm currently studying at the <i>National gymnasium for anci
   <img src="https://swift.org/apple-touch-icon-180x180.png" alt="Swift" width="100" height="100" valign="middle"/> 
   <span style="font-size: 22px; vertical-align: middle;">&nbsp;—&nbsp; If I pursue Kotlin, I better do Swift too because yes</span>
 </p>
+
+
+-------
+
+### Want to contact me?
+  
+<a href="ninovets.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="175" height="50" />
+</a>
+<a href="https://discord.com/users/1030172775140311061">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width="175" height="50" />
+</a>
