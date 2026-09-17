@@ -10,7 +10,7 @@ Beyond programming, I'm currently studying as a <b>sophomore</b> (3rd year) <b>s
 
 ### Research and Academic Pathway:
 
-<table>
+<table width="40%">
   <thead>
     <tr>
       <th width="30%">Topic</th>
