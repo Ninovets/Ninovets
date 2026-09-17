@@ -21,7 +21,7 @@ Beyond programming, I'm currently studying as a <b>sophomore</b> (3rd year) <b>s
   <tbody>
     <tr>
       <td>
-        <b>Градоустройството на <br>Вавилон по времето на<br>Навуходоносор II</b><br>
+        <b>Градоустройството на <br>Вавилон по времето<br>на Навуходоносор II</b><br>
         <sub>(<i>Babylon urban planning<br>under Nebuchadnezzar II</i>)</sub>
       </td>
       <td>
