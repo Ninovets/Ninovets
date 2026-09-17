@@ -1,4 +1,4 @@
-<img src="https://wsrv.nl/?url=raw.githubusercontent.com/Ninovets/Ninovets/main/BannerVertical.jpeg" align="right" width="295" alt="Banner" />
+<img src="https://wsrv.nl/?url=raw.githubusercontent.com/Ninovets/Ninovets/main/BannerVertical.jpeg" align="right" width="300" alt="Banner" />
 
 ### Hey!
 
@@ -6,7 +6,7 @@ I'm a **hobby programmer** who has learned **absolutely nothing** (will learn mo
 
 Beyond programming, I'm currently studying as a <b>sophomore</b> (3rd year) <b>student</b> at the <i>[National gymnasium for ancient languages and culture "St. Constantinus Cyrillus-Philosophus"](https://ngdek.com/)</i> in Bulgaria <img src="https://images.emojiterra.com/twitter/v14.0/1024px/1f1e7-1f1ec.png" alt="BG-Emoji" width="20" height="20" valign="middle"/>.
 
-----------
+<hr>
 
 ### Research and Academic Pathway:
 
