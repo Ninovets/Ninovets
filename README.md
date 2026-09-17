@@ -1,4 +1,4 @@
-<img src="https://wsrv.nl/?url=raw.githubusercontent.com/Ninovets/Ninovets/main/BannerVertical.jpeg" align="right" width="300" alt="Banner" />
+<img src="https://wsrv.nl/?url=raw.githubusercontent.com/Ninovets/Ninovets/main/BannerVertical.jpeg" align="right" width="250" alt="Banner" />
 
 ### Hey!
 
@@ -15,7 +15,7 @@ Beyond programming, I'm currently studying as a <b>sophomore</b> (3rd year) <b>s
     <tr>
       <th width="5%">Topic</th>
       <th width="5%">Core Focus</th>
-      <th width="1%">Date</th>
+      <th width="5%">Date</th>
     </tr>
   </thead>
   <tbody>
