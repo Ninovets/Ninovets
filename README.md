@@ -15,7 +15,7 @@ Beyond programming, I'm currently studying as a <b>sophomore</b> (3rd year) <b>s
     <tr>
       <th width="5%">Topic</th>
       <th width="5%">Core Focus</th>
-      <th width="5%">Date</th>
+      <th width="1%">Date</th>
     </tr>
   </thead>
   <tbody>
