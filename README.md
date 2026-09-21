@@ -25,7 +25,7 @@ Beyond programming, I'm currently studying as a <b>sophomore</b> (3rd year) <b>s
     <tr>
       <td>
         <b>Градоустройството на Вавилон по времето на Навуходоносор II</b><br>
-        <sub>(<i>Babylon urban planningunder Nebuchadnezzar II</i>)</sub>
+        <sub>(<i>Babylon urban planning during the time of Nebuchadnezzar II</i>)</sub>
       </td>
       <td>
         • Architectural layout<br>
